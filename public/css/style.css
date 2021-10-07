@@ -1,0 +1,30 @@
+*{
+
+align-items: center;
+}
+
+table{
+    align-content: center;
+    background-color:
+
+}
+    
+
+input{
+    background-color: black;
+    color: white;
+}
+#label{
+color: white;
+background-color: black;
+text-align: center;
+}
+#text{
+    background-color: coral;
+    width: 250px;
+    height: 30px;
+
+}
+.btn{
+    padding: 15px 30px;
+ }
